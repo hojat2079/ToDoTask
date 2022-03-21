@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">لیست وظایف</string>
+    <string name="todo">TODO</string>
+    <string name="serach">جستجو</string>
+</resources>
